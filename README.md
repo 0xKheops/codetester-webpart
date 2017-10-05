@@ -4,6 +4,8 @@
 
 This WebPart uses CodeDom and Reflection to dynamically compile an assembly and run a method containing user's input.
 
+[Download CodeTesterWebPart.wsp](README/CodeTesterWebPart.wsp)
+
 Test your .NET code in Sharepoint's web context without deploying anything and without waiting for Sharepoint to initialize.
 
 Type some code directly in the textbox and click a button to run it !
