@@ -6,21 +6,19 @@ Test your .NET code in Sharepoint's web context without deploying anything and w
 
 Type some code directly in the textbox and click a button to run it !
 
-![README\CSharp.PNG](README\CSharp.PNG)
+![C#](README/CSharp.PNG)
 
 Since v0.0.0.2 you can code in VB.NET too :
 
-![README\VB.PNG](README\VB.PNG)
+![VB](README/VB.PNG)
 
 View compiler errors just like in Visual Studio :
 
-CompilerResults2.PNG
-![README\CompilerResults2.PNG](README\CompilerResults2.PNG)
+![compiler results](README/CompilerResults2.PNG)
 
 Test controls and script injections :
 
-Gantt4.PNG
-![README\Gantt4.PNG](README\Gantt4.PNG)
+![insert gantt](README/Gantt4.PNG)
 
 Considerations
 
