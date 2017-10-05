@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="CodeTesterWebPart.CodeTesterWebPart, CodeTesterWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cf66f775ea3becbb" />
+      <importErrorMessage>Cannot import CodeTesterWebPart Web Part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Code Tester</property>
+        <property name="Description" type="string">Uses CodeDom and Reflection to run C# code - By Arnault Nouvel</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

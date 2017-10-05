@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature  Id="272bb64f-425c-476a-a4ee-32e11fee704d"
+          Title="CodeTesterWebPart"
+          Description="Uses CodeDom and Reflection to run C# code - By Arnault Nouvel"
+          Version="12.0.0.0"
+          Hidden="FALSE"
+          Scope="Site"
+          DefaultResourceFile="core"
+          xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="elements.xml"/>
+    <ElementFile Location="CodeTesterWebPart.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,55 @@
+﻿
+.CTWP-References
+{
+	border:solid 1px #CCCCCC;
+	width:100%;
+	display:none;
+	overflow-y:visible;
+}
+
+.CTWP-Usings
+{
+	border:dashed 1px #CCCCCC;
+	width:100%;
+	overflow-x:auto;
+	overflow-y:visible;
+}
+
+.CTWP-CodeSnippet
+{
+	border:dashed 1px #CCCCCC;
+	width:100%;
+	height:100%;
+	/*overflow-x:auto;*/
+	overflow-y:visible;
+}
+
+.CTWP-CodeSnippetTD
+{
+	width:100%;
+}
+
+.CTWP-Indent
+{
+	height:100%;
+	width:15px;
+	height:2px;
+	white-space:nowrap;
+}
+
+.CTWP-FullWidth
+{
+	width:100%;
+}
+
+.CTWP-Table TD
+{
+	font-family:Courier New !important;
+	font-size:10pt !important;
+}
+
+.CTWP-TasksListHeader
+{
+	background-color:#CCCCCC;
+	text-align:left;
+}

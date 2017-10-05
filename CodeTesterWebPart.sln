@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTesterWebPart", "CodeTesterWebPart.csproj", "{899461E9-3A4D-471B-8547-46CA5F9C79A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F39DB6FE-FA38-49A2-90A6-7E1AACBCB073}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README", "README", "{CDD5254A-0009-49C3-B8BE-7766ED452C8B}"
+	ProjectSection(SolutionItems) = preProject
+		README\CompilerResults2.PNG = README\CompilerResults2.PNG
+		README\CSharp.PNG = README\CSharp.PNG
+		README\Gantt4.PNG = README\Gantt4.PNG
+		README\VB.PNG = README\VB.PNG
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899461E9-3A4D-471B-8547-46CA5F9C79A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899461E9-3A4D-471B-8547-46CA5F9C79A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899461E9-3A4D-471B-8547-46CA5F9C79A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899461E9-3A4D-471B-8547-46CA5F9C79A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B51DA520-63A8-4606-AB95-C4FBDA299D3A}
+	EndGlobalSection
+EndGlobal
